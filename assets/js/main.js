@@ -1,6 +1,6 @@
 /**
-* Template Name: Regna - v4.6.0
-* Template URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
+* Template Name: Tejveer Singh Goraya - v4.6.0
+* Template URL: https://bootstrapmade.com/Tejveer Singh Goraya-bootstrap-onepage-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
